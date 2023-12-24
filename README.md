@@ -11,7 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senior-ori&show_icons=true&locale=en&layout=compact" alt="senior-ori" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senior-ori&show_icons=true&locale=en" alt="senior-ori" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senior-ori&" alt="senior-ori" /></p>
-
