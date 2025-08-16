@@ -2,9 +2,28 @@
 <h3 align="center">A full stack developer from Israel</h3>
 
 
+<h3 align="left">Languages and Tools (Mascot Edition):</h3>
 
+<!-- Languages -->
+<table border="1">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Cube" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/python/pythondotorg/main/static/img/python-logo.png" alt="Python Snake" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.rustacean.net/assets/cuddlyferris.png" alt="Rust Ferris Crab" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Mascot" width="40" height="40"/></td>
+  </tr>
+</table>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p align="left"></a> </p>
+<!-- Tools & Frameworks -->
+<table border="1">
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Infinity" width="40" height="40"/></td>
+    <td align="center"><img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/cassandra.svg" alt="Cassandra Eye" width="40" height="40"/></td>
+    <td align="center"><img src="https://expressjs.com/images/favicon.png" alt="Express" width="40" height="40"/></td>
+    <td align="center"><img src="https://nodejs.org/static/images/node-mascot.svg" alt="Node.js Turtle" width="40" height="40"/></td>
+    <td align="center"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV Mascot" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="React Atom" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow Cube" width="40" height="40"/></td>
+  </tr>
+</table>
