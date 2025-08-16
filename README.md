@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ori</h1>
 <h3 align="center">A full stack developer from Israel</h3>
 
+
 <h3 align="left">Languages and Tools (Mascot Edition):</h3>
 
 <!-- Languages -->
@@ -25,7 +26,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="React Atom" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/remix-run/remix/main/.github/logo.png" alt="Remix" height="40"/></td>
+    <td align="center"><img src="https://remix.run/_brand/remix-glowing.svg" alt="React Remix" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow Cube" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/containers/podman/main/logo/podman-logo.png" alt="Podman" height="40"/></td>
